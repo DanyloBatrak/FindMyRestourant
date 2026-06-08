@@ -36,7 +36,7 @@ I added “grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));” to ma
 
 Here's a walkthrough of implemented required features:
 
-<img src='[https://imgur.com/a/LEnHvdg](https://imgur.com/a/LEnHvdg)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/LEnHvdg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
