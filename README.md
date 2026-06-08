@@ -30,20 +30,16 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you added to improve the site's functionality!
 
-I added “grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));” to make sure that 
+I added “grid-template-columns: repeat(auto-fit, minmax(250px, 1fr))” to make sure that cards are in place and not overlap in one row 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/LzpR4S9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/LzpR4S9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with ScreenToGif  
 
 ## Notes
 
@@ -51,7 +47,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Danylo Batrak]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
